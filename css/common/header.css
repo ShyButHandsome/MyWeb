@@ -1,0 +1,23 @@
+* {
+    border: 1px solid black;
+}
+.siteHeader > * {
+    line-height: 75px;
+    width: auto;
+}
+.siteHeader > nav {
+    line-height: 75px;
+}
+.siteHeader nav li {
+    margin: 0 13px 0 13px;
+}
+.siteHeader nav a {
+    width: 50px;
+}
+.avatar {
+    height: 35px;
+    width: 35px;
+    /* 以下两行调试用 */
+    border-radius: 50%;
+    border: 1px solid black;
+}
